@@ -10,7 +10,7 @@ In my spare time, you might find me playing the guitar, video games, listening t
 
 If you would like to chat or collaborate please feel free to shoot me an [email](mailto:satya.borgohain@gmail.com). Where there are synergies, creativity oft follows.
 
-- 📫 You can also connect with me on:
+📫 You can connect with me on:
 
 * [Twitter profile](https://twitter.com/satyaborg)
 * [LinkedIn profile](https://www.linkedin.com/in/satyaborg/)
