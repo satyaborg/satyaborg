@@ -8,12 +8,12 @@ To that end, I work with machine/deep learning paradigms and am currently a Rese
 
 In my spare time, you might find me playing the guitar, video games, listening to a plethora of music, reading or very occassionally, sketching. I also love hiking and exploring nature in general which is something I wish I have more time for in the future!
 
-If you would like to chat or collaborate please feel free to shoot me an [email](mailto:satya.borgohain@gmail.com). Where there are synergies, creativity oft follows.
+If you would like to chat or collaborate please feel free to shoot me an [email](mailto:satya.borg@gmail.com). Where there are synergies, creativity oft follows.
 
 📫 You can connect with me on:
 
 * [Twitter profile](https://twitter.com/satyaborg)
 * [LinkedIn profile](https://www.linkedin.com/in/satyaborg/)
-* [Personal site](https://syborg.dev)
+* [Blog](https://syborg.dev)
 
 <img src="https://github-readme-stats.vercel.app/api?username=satyaborg&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
