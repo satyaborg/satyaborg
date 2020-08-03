@@ -12,8 +12,8 @@ If you would like to chat or collaborate please feel free to shoot me an [email]
 
 📫 You can connect with me on:
 
-* [Twitter profile](https://twitter.com/satyaborg)
-* [LinkedIn profile](https://www.linkedin.com/in/satyaborg/)
+* [Twitter](https://twitter.com/satyaborg)
+* [LinkedIn](https://www.linkedin.com/in/satyaborg/)
 * [Blog](https://syborg.dev)
 
 <img src="https://github-readme-stats.vercel.app/api?username=satyaborg&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
