@@ -1,4 +1,4 @@
-### Hi there wanderer 👋🏼https://www.monash.edu/business/soda-labs/home
+### Hi there wanderer 👋🏼
 
 💬 About me
 
