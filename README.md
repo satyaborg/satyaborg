@@ -14,4 +14,4 @@ If you would like to chat or collaborate please feel free to shoot me an [email]
 
 * [Twitter](https://twitter.com/satyaborg)
 * [LinkedIn](https://www.linkedin.com/in/satyaborg/)
-* [Personal website](https://syborg.dev)
+* [Personal website](https://www.satyaborg.com)
