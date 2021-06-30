@@ -12,6 +12,5 @@ If you would like to chat or collaborate please feel free to shoot me an [email]
 
 📫 You can connect with me on:
 
-* [Twitter](https://twitter.com/satyaborg)
 * [LinkedIn](https://www.linkedin.com/in/satyaborg/)
 * [Personal website](https://www.satyaborg.com)
