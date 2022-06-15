@@ -1,4 +1,4 @@
-### Greetings, wanderer.
+### Greetings, wanderer
 
 💬 About me
 
